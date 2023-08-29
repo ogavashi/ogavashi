@@ -6,7 +6,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogavashi&theme=react)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/ogavashi/ogavashi/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogavashi/ogavashi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogavashi/ogavashi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ogavashi/ogavashi/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **ogavashi/ogavashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
