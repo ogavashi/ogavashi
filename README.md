@@ -1,10 +1,17 @@
-### Hi there 👋
+# 📊 GitHub stats
 
-[![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogavashi&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ogavashi&theme=react&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogavashi&layout=compact&langs_count=8&card_width=320&theme=react" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogavashi&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+# 🔥 GitHub streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogavashi&theme=react)](https://git.io/streak-stats)
+
+# 🚀 My contributions 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogavashi/ogavashi/output/github-contribution-grid-snake-dark.svg">
